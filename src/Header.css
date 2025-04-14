@@ -1,0 +1,15 @@
+  .Header{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    width: 100%;
+    height: 70px;
+    background-color: rgb(12, 14, 13);
+  }
+
+  .headerLogo h1{
+    color: white;
+  }
+  .headerMenu a{
+    margin-right: 20px;
+  }
