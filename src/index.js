@@ -8,9 +8,8 @@ import Header from './Header.js'
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App texto = "Olá Gabriel Ferezim"/>
-    <App texto ={{chamada: "Dankicode", chamada2: "Alura"}}/>
     <Header />
+    <App />
   </React.StrictMode>
 );
 
